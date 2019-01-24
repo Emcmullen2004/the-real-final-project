@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Score\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Score()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Score\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ addToScore()
+comment2.text=\r\n\ addToScore\ sets\ the\ score\ needed\ to\ win,\ creates\ the\ score\ counter\ at\ the\ top\ left\ \r\n\ of\ the\ screen\ and\ actually\ adds\ to\ score\ only\ when\ called.\ \r\n\ (gets\ called\ when\ player\ kills\ an\ enemy)\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ addToScore\ returns\ nothing\r\n
+numComments=3

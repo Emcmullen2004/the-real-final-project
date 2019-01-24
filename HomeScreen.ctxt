@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HomeScreen
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HomeScreen\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=HomeScreen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ HomeScreen.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ gameStart()
+comment3.text=\r\n\ gameStart\ switches\ the\ screen\ to\ a\ screen\ of\ which\ you\ actually\ play\ the\ game\ on\r\n\ but\ only\ when\ the\ space\ bar\ is\ pressed\r\n
+numComments=4

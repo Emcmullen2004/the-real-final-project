@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Player\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ move\ allows\ the\ player\ to\ move\ left\ and\ right\ along\ with\ aiding\ in\ the\ turning\ mechanic\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ move\ returns\ nothing\r\n
+comment3.params=
+comment3.target=void\ turnAround()
+comment3.text=\r\n\ turn\ around\ allows\ for\ the\ visual\ effect\ of\ turning\ around\ the\ base\ character\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ turnAround\ returns\ nothing\r\n
+comment4.params=
+comment4.target=void\ attack()
+comment4.text=\r\n\ attack\ creates\ the\ ability\ to\ attack\ along\ with\ the\ visual\ effect\ and\ also\ sets\ the\r\n\ turning\ effect\ during\ the\ attack.\ the\ attack\ deletes\ the\ enemy\ it\ is\ touching\r\n\ \r\n\ @param\ there\ are\ no\ parameters\r\n\ @return\ attack\ returns\ nothing\r\n
+numComments=5
